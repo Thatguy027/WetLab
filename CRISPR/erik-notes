@@ -1,0 +1,70 @@
+# GOALS FOR NEXT FEW MONTHS
+
+NILS
+  crossing
+    speed congenic (mouse technique)
+
+  crispr
+    2 gRNAs
+    Cas9
+    fosmids
+
+put resistant into sensitive to avoid debansky-muler incompatibilities
+
+
+
+
+
+
+Make Mutants
+  Feed (introduce coCRISPR)
+    strain with Cas9
+    gRNA in bacteria
+  coCRISPR
+    gRNA
+    Cas9
+
+
+5-10 genes - allele swaps
+
+Allele swaps
+
+
+getting rid of coCRISPR
+  select for unc-22 heterozygotes by adding nicotinamide
+
+coCRISPR  seems to be the way to go
+  we have
+    cas9 - sgrna plasmid
+    q5 kit to change target sequence
+      what is done
+        ttTi5605 site target sequence on chr2 - injected - validated
+        peel-1 gRNA (?)
+        npr-1 gRNA (?)
+        fog-2 gRNA (?)
+        unc-119 gRNA (?)
+          ...these are for tool generation
+
+        ***need unc-22 sgRNA plasmid
+          current goal is to do shoot in
+              unc-22-cas9 (natural variation)
+              target-cas9
+              ...is there an issue with cas9 stoicheometry
+                .... wormbase forum as a resource
+
+              other possibilities
+              also make gfp sgRNA
+                put gfp in strains and cut it
+              put broken gfp in and fix with sgRNA + HR to fix
+
+** are u6 promoters the same in goldstein and mello papers???
+  no they are not. which to use?
+
+bryn idea
+put lox-cas9-gfp-lox into ttTi
+
+
+co-injection marker is myo2-GFP - makes them sick if injected above 5ng/ul
+
+
+injecting protocol on website

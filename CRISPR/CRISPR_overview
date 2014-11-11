@@ -1,0 +1,90 @@
+Summary of talk with Erik
+
+Topic : CRISPR
+
+Overview of next steps:
+
+NIL generation -> CRISPR
+
+NIL generation ::
+
+Method 1 - Traditional NIL generation
+We can utilize RIAIL set for generating NILs
+For a given QTL confidence interval, assuming CB4856 and N2 have different phenotypes,
+  There will be a number of RIAILs that have multiple breakpoints that overlap with a QTL CI
+  We can cross the RIAILs to N2/CB followed by crosses to the other genotype in order to generate NILs
+
+Method 2 - Speed congenic approach (mouse technique)
+Cross two inbred animals with alternate phenotypes and screen for recombination events that flank QTL CI
+**NEED MORE DETAILS**
+
+Method 3 - NIL generation via CRISPR
+Identify QTL and introduce sgRNAs that will cut two regions within QTL CI
+Introduce fosmid/plasmid from other phenotype genotype with homology to region in injection
+Include coCRISPR sgRNA as well
+Screen for homologous recombination event of interest
+Need to identify how length of possible recombination events
+
+CRISPR ::
+
+My thoughts on conversation with Erik 10.6.2014
+
+coCRISPR seems like the best bet, but we should also generate strains for "Bryn method"
+
+coCRISPR method overview::
+
+coCRISPR targets:
+sgRNA for unc-22 (hets twitch in presence of nicotine)
+sgRNA for ben-1 (het has sensitivity to benomyl)
+sgRNA for GFP
+
+Targets to generate tools for the lab:
+peel-1
+npr-1
+fog-2
+unc-119
+^^ need sgRNAs for all of these as well
+
+Things that need to be injected into worms:
+1) coCRISPR target sgRNA
+2) target of interest sgRNA
+3) co-injection marker (gfp or rol-6)
+4) Cas9 plasmid
+
+What we currently have:
+plasmid that contains sgRNA and Cas9 from the Goldstein lab.
+**NOTE** this plasmid contains a U6 promoter that is different from the coCRISPR paper U6 promoter
+
+
+We need to generate/order this plasmid :
+1) promoter-sgRNA
+   Plasmid will be used for sgRNAs for targets of interest
+   We can change sgRNA using Q5 kit and oligos
+2) promoter -> unc-22(ben-1, gfp) sgRNA --- U6pr-Cas9
+   Plasmid will be the standard coCRISPR plasmid that can be used for all injections
+
+Steps:
+Start work on plasmid generation
+Practice injections
+
+
+CRISPR by feeding method (issue is low efficiency):
+
+Plasmid to generate :
+homology to ttTi - lox - U6-Cas9 - promoter-GFP - lox - homology to ttTi
+
+This plasmid can be generated and introduced into heritability panel
+It can then be used for :
+coCRISPR using GFP as off target
+CRISPR by feeding
+
+A thought :
+Can we
+1) Inject strains with extrachromosomal array that contains Cas9 (also co-injection marker)
+2) Select F1 worms with co-injection marker
+3) Feed F1 bacteria with sgRNA targets
+
+This can be combined with coCRISPR by generating bacteria that contain plasmids that have 2 sgRNAs
+
+Alternatively - we can include fosmids in the injection to mediate homologous recombination in feeding
+This would require a plasmid that contains 2 sgRNAs that can be transformed into bacteria
