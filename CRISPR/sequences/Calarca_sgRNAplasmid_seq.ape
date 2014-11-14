@@ -1,0 +1,43 @@
+LOCUS       New_DNA                  840 bp ds-DNA     linear       14-NOV-2014
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    501..520
+                     /label=unc-22 target sequence
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    478..500
+                     /label=rev primer fobinding for q5
+                     /ApEinfo_fwdcolor=#ff1a13
+                     /ApEinfo_revcolor=#700008
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    521..542
+                     /label=Forward primer for Q5 
+                     /ApEinfo_fwdcolor=#ff0000
+                     /ApEinfo_revcolor=#700007
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 CTCCAAGAAC TCGTACAAAA ATGCTCTGAA GTAGGTCTCG AGATCAATAC TGGGAAGACG
+       61 AAAGTCTTGC GAAACCGATT CGCTGACCCC AGTAAAGTCT ACTTCGGTAG CCCTTCCCCC
+      121 ACCACCCAGC TCGACGACGT CGACGAGTAC ATCTACCTCG GTCGTCAAAT CAACGCCCAA
+      181 AACAACTTGA TGCCGGAAAT CCACCGAAGA CGTCGAGCAG CCTGGGCTGC ATTCAATGGA
+      241 ATCAAGAATG CCACCGACTC CATCACCGAC AAGAAGATTC GTGCGAATCT GTTCGACTCA
+      301 ATTGTCCTTC CAGCGCTCAC CTACGTTTCA GAAGCCTGGA CATTCACCAA AGCTCTATCC
+      361 GAACGAGTAC GAATCACACA TGCCTCCCCC ACAAATTATT GATCTACATC CCCATTTGGT
+      421 ATAGTGTCTT ACAGGACTCT CAATATGTCA GCTGCATGAT AAATGGTCCC TATATAATTG
+      481 AATTGCAAAT CTAAATGTTT GAACCCGTTG CCGAATACAC GTTTTAGAGC TAGAAATAGC
+      541 AAGTTAAAAT AAGGCTAGTC CGTTATCAAC TTGAAAAAGT GGCACCGAGT CGGTGCTTTT
+      601 TTTCAATAAT ATTCTAGATA TCCCTTTTTG AAACTAAAAT GAAATACTCT AAATTTTTGA
+      661 GTTCAATGTT TCAACTAATC TTGGTTAAAG GTAAATTCCC GGAGGGACGA TTTTAAAGTT
+      721 GCCAGAGTTG ATTAAATTGG TCCAAAAAAT TTTATTAGGA AACTCGAAAA AAAATTGATT
+      781 TTTTTTGACA ATATTCCAAA GAAAATTACA AAATCTCGAC GCCAAACATA GTCGGCTGTG
+//
