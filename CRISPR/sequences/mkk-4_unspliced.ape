@@ -1,0 +1,61 @@
+LOCUS       mkk_4_unspliced         2274 bp ds-DNA     linear       20-NOV-2014
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    49..68
+                     /label=target seq score =.73 antisense
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    429..448
+                     /label=target seq score =.7 antisesense
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 agttaATGGT TCAAGAAGAT GACGAGAATT TACGCAATTC AATGTCCCTT CGGCCGACTT
+       61 CGTTGTCAAC ACGTCCCACA TCACTTTCGG TAAACGGAAA TGAGAAGACG CTTCCAGAAG
+      121 AAAGTGTGTT gtgagtgttt tttccttttt tcaattagtc attagtaatc ctctcgtttt
+      181 cagACGTTCT CTTTCGACAG GCACATTAAA ATACCCTGAT GACGAACATT TATACACATT
+      241 CAGCTCCGCT AATTTACAAG ATCTTGGAGC AATTGGAAAC GGCAATTTTG GAACAGTTTA
+      301 CAAAATGCGT CACAAAGAAA CTGGAAAACT GATAGCTGTG AAGgtttgac caataatttg
+      361 ttttgtgaaa aacaatgttt ttttcagAGG ATACGATGCA ACAACATTGG ACATAGAGAA
+      421 CAAATCCGCT TACTTCGAGA GCACGACACA ATTGTGAAAT CCGAGAAAGG ACCAAATATC
+      481 GTGAAGTTTT ACGGAGCGAT TTTCAGCGAG gtgggtataa gaacagattt caattaaagc
+      541 aaaaattttg tttgcgtcat ggtgaatagt aaaacgtata tctatatttt tgttttcagt
+      601 tttttttaat tcaaacttta cagGGTGATT GCTGGATTTG CATGGAACTG ATGGACATTT
+      661 CGATGGACCT TCTTTATAAA CGAGTATATA TGGTGAAAAA TAGTCGGCTG AATGAAAATG
+      721 TCGTCGGACA TATCACAGTT TGCgtgagtt aacattatat aataatttgg agtatttata
+      781 tttttacagA CTGTAGATGC ATTGGATTAT TTGAAGAAAG AATTAAAAAT TATTCATCGA
+      841 GACGTGAAAC CCTCCAATAT TCTTGTAGAC GGAACTGGAG CAGTGAAACT TTGCGATTTT
+      901 GGTATTTGTG GGCAGTTAGA AGAATCATTT GCGAAAACTC ATGACGCCGG TTGTCAGCCG
+      961 TATCTTGCAg taagtgtttg agtgtgttcc ataaagatct aataattttt ttaacatttg
+     1021 ttcaaaaaag tctaaaccaa acctttagct gttctgcatt cttcttctac attgttacta
+     1081 caattaggaa attcgggttt cgaaaatatt tatttttttg aaattaaaaa aaatgataga
+     1141 aggtagaatt gtaaattggt ggacaattag caaaatatga tagacaagtt tcgaacatat
+     1201 gttgagtttg tttttattca gCCCGAAAGG ATTACAAGTT CAGACAAATA TGATGTGAGA
+     1261 TCGGATGTGT GGTCATTGGG AATAACTTTG gtaatttttt tctgttttca aaaatccaca
+     1321 aacaaaattt ttagTACGAA ATAGCAACAG GAAAATTTCC CTACCAAGAA TGGAATTCAC
+     1381 TTTTTGATCA GATTGCTACA gtgagttatt atctatatca ttgcgctatt tgtagaaaaa
+     1441 catgttttag GTAGTAAGCG GTGATCCTCC AATTCTACAT CCAGACAGCG ACGATTTCCA
+     1501 TTACAGTTTG CCGCTTGTCA AGTTTATCAA TACTTGgtga gtttgttttt gtaacatata
+     1561 attggcaaag tttgtattga aattcttcag CTTAACTAAA GACAGACGCC ATCGGCCCAA
+     1621 ATATGATACT CTGAAGAGTT TTGACTTTTA TAGAATgtga gttttttatt ttctcattta
+     1681 acagatatca cgtattaaat ttcagATACG CAGTTGCCGG ACCCGAAATT GAAGAGGCTA
+     1741 AGCGAATTCT TGGAGTTGAA GCAATTGACA CAAGAAATCA TCCTGTCGAC CACAGAGGAT
+     1801 AGatatttac tgatttccaa ttttatcatg tttttgtaga tctttgtatt ttttgccagg
+     1861 ttttcaaaat tttcaaacta cttctttgat ttctttgaaa attcttcgat tcgtttttca
+     1921 tattattgtt tttcaaaata ttcttcgcag cttactcaat ttttgtcatt ttcctattct
+     1981 cccgacgcac aataataatt tgttccgtga tagtgaatcc aactaatttt ttttggataa
+     2041 ttccaatcgt ccatctcacc catcccattc agagctctac attgttaaaa tatttcgacg
+     2101 ctttggtatt gtcgtgttta tttctcatca tctctctttc tcactctttc tctctctctt
+     2161 ccctccgatt gtgctagctt cccatctttt gatctcaaca cacaccatgg ttcttctaat
+     2221 cagtaacaat cattttgcaa caaactctaa ttcttttaat aaactgtttt acac
+//
