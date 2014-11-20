@@ -1,0 +1,13 @@
+## How to do injections
+
+#### Worms
+Pick L4s (30-50) the day before you plan on doing injections
+
+#### Injection Buffer
+
+1. 100ng/µl DNA Ladder (in box)
+2. 2ng/µl myo2-GFP (in box - pECA43)
+3. 1X Injection Buffer (above Bryn's bench)
+4. XXconc of other plasmids
+
+#### 
