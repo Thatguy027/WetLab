@@ -1,0 +1,3 @@
+peel-1 verify primers
+fog-2
+combine primers with target seqs
