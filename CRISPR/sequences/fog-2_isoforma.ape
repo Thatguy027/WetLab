@@ -1,0 +1,46 @@
+LOCUS       fog_2_isoforma          1321 bp ds-DNA     linear       24-NOV-2014
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    349..368
+                     /label=tatget sequence -score  .62 antisense
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    443..462
+                     /label=target sequence - score .6 sense
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 tttgcagaaa acgccggatt tcaaccaatc gaaacgaaaA TGAGTGAAAA TTTGACGGAT
+       61 GAGTTGGATT TGATGAAAAT gtatgtttta ggcaaggatt acaattgaaa atttgtttga
+      121 aacgtcaaaa atccactgat ttcttacgcg atctcttatg atgctcccag caatcaaatt
+      181 tgaagaaaac tcatagtttt tataatttca gCTCCGGTCC TCCATCATTC TCTGACATGC
+      241 CAATGGAGAC GGTTTATAAA ATTGTGGGAA AAGTGGATCC ATACAGCAGg tattatcgat
+      301 tttttaattt aataacaatt ttaattaaaa atttagATTG GCAGTCCGCA AAGTGTGCCG
+      361 AAATTTGCGA AATGTCATCG ATGACACTGA TCCTGGCTTC AAGTATGTTA AGGTGGATCT
+      421 GTCCAGATAC GCCTCTCGTC TTTGGTTGAC CAATATCGGA CGCGGCGCAA TTTGTTATTC
+      481 TCGAAATTCA AATGATCCTG GTTGCACTGT CCGAAGAACT TCGCAGAGTA AATCTATCGA
+      541 AAAGACTCAA TTGGATGCGA TTCTGGATGA TTTGGCAGTA ATTGTGAAGA ATCCAAAACT
+      601 TCGATTGGAT AATTTTGTTA TCGTCTCTTC ACATGAAGCT TCAAAGCAAT TTGTGGAATG
+      661 GATTAGAGAT ATTGCTCAAT CAGGAATTCT GCTGCACACA AAAAAAATAA AATTGGACAT
+      721 TTTTCCCCTC AAAGATGTGT TCGGTGTCCT TTCTCACTGC AAGCCTGGAT TTCTTGAAGA
+      781 CATCGAATTT TACTGTTATG ACTCCGCTGG AAAAATGGAT GAAATTATCA ATTTGGAACA
+      841 ATGGAAACGC GCTAAATCGA TTAATATTGA GGGACGTGTA TGCGAAGATA TTCCCATTGA
+      901 GCACTTCTTC CATTTTTCTC GTATCACCAT CAAATTGAGA AAACTATCAG TTTCTGATGC
+      961 AATTAAAATA AGAGATgtaa gtttgaaact actaaaatat aaaaataaat catgaattat
+     1021 tttcagGACC TAATGAAGTC AGCTCATTTT GAATATGCAT ACATCAAGAT TATAGAAGGA
+     1081 GTCGACCCAG ACGTTTTGAG AGCTATCAAT CCAAATTACC ATCCATATGA TGCTCTCGAT
+     1141 CCTTTTGAAC ACGGAAATTA TACATTTCGT ATCTCAAGTG ACAgtctgtt tgattcagct
+     1201 ctaaaaatcg agaaggtttc aattacagAA GACGACCTGG CCCTTTTGTG Acgtcttttc
+     1261 tggactgaaa atgagcattt tttgttgaaa atcaataatc ctgttgatgt ttttttcccg
+     1321 t     
+//

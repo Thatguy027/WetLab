@@ -1,4 +1,4 @@
-LOCUS       New_DNA                 3481 bp ds-DNA     linear       20-NOV-2014
+LOCUS       pU6_unc_119_sgRN        3481 bp ds-DNA     linear       28-NOV-2014
 DEFINITION  .
 ACCESSION   
 VERSION     
@@ -6,6 +6,25 @@ SOURCE      .
   ORGANISM  .
 COMMENT     
 COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    902..921
+                     /label=tartget sequence unc-119
+                     /ApEinfo_fwdcolor=#bf75f5
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    922..943
+                     /label=forward primer
+                     /ApEinfo_fwdcolor=#ff0900
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    879..901
+                     /label=reverse primer
+                     /ApEinfo_fwdcolor=#ff0000
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
 ORIGIN
         1 TCGCGCGTTT CGGTGATGAC GGTGAAAACC TCTGACACAT GCAGCTCCCG GAGACGGTCA
        61 CAGCTTGTCT GTAAGCGGAT GCCGGGAGCA GACAAGCCCG TCAGGGCGCG TCAGCGGGTG

@@ -1,10 +1,9 @@
-LOCUS       top2_unspliced          5444 bp ds-DNA     linear       20-NOV-2014
+LOCUS       top2_unspliced          5444 bp ds-DNA     linear       24-NOV-2014
 DEFINITION  .
 ACCESSION   
 VERSION     
 SOURCE      .
   ORGANISM  .
-COMMENT     
 COMMENT     
 COMMENT     ApEinfo:methylated:1
 FEATURES             Location/Qualifiers
@@ -16,12 +15,21 @@ FEATURES             Location/Qualifiers
                      width 5 offset 0
      misc_feature    341..360
                      /label=target seq score =.68
+                     /label=misc_feature
                      /ApEinfo_fwdcolor=cyan
                      /ApEinfo_revcolor=green
                      /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
                      width 5 offset 0
      misc_feature    291..310
                      /label=target seq score = .66
+                     /label=misc_feature(1)
+                     /ApEinfo_label=misc_feature
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    4495..4514
+                     /label=target seq score .98
                      /ApEinfo_fwdcolor=cyan
                      /ApEinfo_revcolor=green
                      /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}

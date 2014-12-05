@@ -8,7 +8,9 @@ Tails -
 target seq , genomic context, sense, target seq score
 
 fog-2 -
-
+both in exon-3 and target both isoforms
+'GCAAATTTCGGCACACTTTG', 'TTTCGCAAATTTCGGCACACTTTGCGGACT', 'antisense', '0.619823652573'
+'TGGTTGACCAATATCGGACG', 'TCTTTGGTTGACCAATATCGGACGCGGCGC', 'sense', '0.605997677834'
 
 peel-1 - no isoforms
 'TGATCTGCCTGAAAATGTAT', 'ATCTTGATCTGCCTGAAAATGTATGGGTAA', 'sense', '0.504365577061'],
@@ -19,20 +21,10 @@ peel-1 - no isoforms
 npr-1 - no isoforms, mostafa suggests to target before 420 nucs to mess up peptide binding pocket
 exon-3 (~450 nucs - mostafa's seal of approval)
 'GTAGAGTTACAACAAAAGAG', 'TAGGGTAGAGTTACAACAAAAGAGAGGATC', 'antisense', '0.917813670405'
-exon-9 (near end)
-'AATCATCTCTGCCATAAAGT', 'TCGTAATCATCTCTGCCATAAAGTCGGAAA', 'antisense', '0.640202576158'
-exon-8 (>420 nucs)
-'GGAAGAGCCAAAATTGGCGG', 'GAATGGAAGAGCCAAAATTGGCGGTGGTGG', 'sense', '0.643116904916'
+exon-1 (near end)
+TTTCCAATATACTTGACAGT	ACACTTTCCAATATACTTGACAGTCGGTAA	antisense	0.609858764291
 
-unc-119 - isoform C
-at splice junction DO NOT USE ***
-'AGGATTCCTATGCTCCCCAT', 'CTCAAGGATTCCTATGCTCCCCATCGGCAA', 'sense', '0.700015359934'
 
-exon - 4
-'GCGACGGTCGAGTTCAAGGT', 'CGGCGCGACGGTCGAGTTCAAGGTCGGCGA', 'sense', '0.759516423927'
-
-exon-4 - targeting sequence of calarco plasmid
-GAATTTTCTGAAATTAAAGA
 
 top-2 - no isoforms
 exon-5
